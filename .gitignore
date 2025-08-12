@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jupyter Notebookの自動保存
+.ipynb_checkpoints/
+
+# Windowsの不要ファイル
+Thumbs.db
+
+# （必要なら）データや一時フォルダ
+data/
+*.csv
